@@ -2,6 +2,10 @@
 
 ## Vue d'ensemble
 
+<p align="center">
+  <img alt="screenshot" src="screenshot.png">
+</p>
+
 `cert_manager.sh` est un script Bash conçu pour simplifier le processus de création, de gestion et de signature des certificats SSL/TLS. Ce script offre une méthode facile pour générer un certificat d'Autorité de Certification (CA), créer des Demandes de Signature de Certificat (CSR), et signer des certificats en utilisant votre CA.
 
 ## Fonctionnalités
