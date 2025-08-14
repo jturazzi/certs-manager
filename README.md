@@ -1,7 +1,3 @@
-# cert_manager.sh
-
-## Overview
-
 <p align="center">
   <img alt="screenshot" src="screenshot.png">
 </p>
